@@ -1,8 +1,8 @@
 cask "spice" do
   arch arm: "arm64", intel: "x86_64"
 
-  version "2.5.9"
-  sha256 "2fc3567214bfa815ddb33ba24f093d773936cb781e899b6e34a5f48fca6fd05b"
+  version "2.6.1"
+  sha256 "c8e474847e7b54524435d0dbb622fc15259dad0734b79951ec2decb1c34d8505"
 
   url "https://github.com/dixieflatline76/Spice/releases/download/v#{version}/Spice-#{version}-macos-#{arch}.dmg"
   name "Spice"
